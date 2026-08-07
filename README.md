@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moddeore/LeetCode-Pratice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/moddeore/LeetCode-Pratice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -72,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moddeore/LeetCode-Pratice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/moddeore/LeetCode-Pratice/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
