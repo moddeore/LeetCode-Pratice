@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/moddeore/LeetCode-Pratice/tree/master/0009-palindrome-number) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Recursion
