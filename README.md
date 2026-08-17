@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moddeore/LeetCode-Pratice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/moddeore/LeetCode-Pratice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
