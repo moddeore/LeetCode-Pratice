@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/moddeore/LeetCode-Pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/moddeore/LeetCode-Pratice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/moddeore/LeetCode-Pratice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/moddeore/LeetCode-Pratice/tree/master/0008-string-to-integer-atoi) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/moddeore/LeetCode-Pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moddeore/LeetCode-Pratice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/moddeore/LeetCode-Pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
