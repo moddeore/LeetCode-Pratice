@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/moddeore/LeetCode-Pratice/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/moddeore/LeetCode-Pratice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/moddeore/LeetCode-Pratice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moddeore/LeetCode-Pratice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,23 +74,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/moddeore/LeetCode-Pratice/tree/master/0005-longest-palindromic-substring) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moddeore/LeetCode-Pratice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/moddeore/LeetCode-Pratice/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Enumeration
 |  |
