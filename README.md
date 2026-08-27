@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/moddeore/LeetCode-Pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/moddeore/LeetCode-Pratice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/moddeore/LeetCode-Pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moddeore/LeetCode-Pratice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/moddeore/LeetCode-Pratice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/moddeore/LeetCode-Pratice/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moddeore/LeetCode-Pratice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/moddeore/LeetCode-Pratice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/moddeore/LeetCode-Pratice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/moddeore/LeetCode-Pratice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
