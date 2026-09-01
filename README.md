@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/moddeore/LeetCode-Pratice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/moddeore/LeetCode-Pratice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/moddeore/LeetCode-Pratice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/moddeore/LeetCode-Pratice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
