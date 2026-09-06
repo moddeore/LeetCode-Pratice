@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/moddeore/LeetCode-Pratice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/moddeore/LeetCode-Pratice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/0013-roman-to-integer) |
+| [0115-distinct-subsequences](https://github.com/moddeore/LeetCode-Pratice/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/moddeore/LeetCode-Pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/moddeore/LeetCode-Pratice/tree/master/1927-sum-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/moddeore/LeetCode-Pratice/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/moddeore/LeetCode-Pratice/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
