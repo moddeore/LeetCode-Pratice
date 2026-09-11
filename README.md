@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/moddeore/LeetCode-Pratice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/moddeore/LeetCode-Pratice/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/moddeore/LeetCode-Pratice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/moddeore/LeetCode-Pratice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/moddeore/LeetCode-Pratice/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
