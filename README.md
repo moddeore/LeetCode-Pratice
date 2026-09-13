@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/moddeore/LeetCode-Pratice/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/moddeore/LeetCode-Pratice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1331-rank-transform-of-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/moddeore/LeetCode-Pratice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1260-shift-2d-grid) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/moddeore/LeetCode-Pratice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
