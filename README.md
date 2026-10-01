@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/moddeore/LeetCode-Pratice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/moddeore/LeetCode-Pratice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/moddeore/LeetCode-Pratice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
@@ -309,5 +311,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
