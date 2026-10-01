@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/moddeore/LeetCode-Pratice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/moddeore/LeetCode-Pratice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moddeore/LeetCode-Pratice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/moddeore/LeetCode-Pratice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/3871-count-commas-in-range-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/moddeore/LeetCode-Pratice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moddeore/LeetCode-Pratice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/moddeore/LeetCode-Pratice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/moddeore/LeetCode-Pratice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/moddeore/LeetCode-Pratice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moddeore/LeetCode-Pratice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/moddeore/LeetCode-Pratice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/moddeore/LeetCode-Pratice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/moddeore/LeetCode-Pratice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/moddeore/LeetCode-Pratice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moddeore/LeetCode-Pratice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Simulation
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/moddeore/LeetCode-Pratice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moddeore/LeetCode-Pratice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Stack
 |  |
 | ------- |
