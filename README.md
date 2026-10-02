@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/moddeore/LeetCode-Pratice/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/moddeore/LeetCode-Pratice/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/moddeore/LeetCode-Pratice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/moddeore/LeetCode-Pratice/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/moddeore/LeetCode-Pratice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/moddeore/LeetCode-Pratice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
