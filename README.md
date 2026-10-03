@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/moddeore/LeetCode-Pratice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/moddeore/LeetCode-Pratice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/moddeore/LeetCode-Pratice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Backtracking
 |  |
