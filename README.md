@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/moddeore/LeetCode-Pratice/tree/master/0061-rotate-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/moddeore/LeetCode-Pratice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/moddeore/LeetCode-Pratice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/moddeore/LeetCode-Pratice/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/moddeore/LeetCode-Pratice/tree/master/0061-rotate-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/moddeore/LeetCode-Pratice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moddeore/LeetCode-Pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moddeore/LeetCode-Pratice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/moddeore/LeetCode-Pratice/tree/master/3643-flip-square-submatrix-vertically) |
