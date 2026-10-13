@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moddeore/LeetCode-Pratice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/moddeore/LeetCode-Pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/moddeore/LeetCode-Pratice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/moddeore/LeetCode-Pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/moddeore/LeetCode-Pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3903-smallest-stable-index-i) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/moddeore/LeetCode-Pratice/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/moddeore/LeetCode-Pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/moddeore/LeetCode-Pratice/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/moddeore/LeetCode-Pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moddeore/LeetCode-Pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moddeore/LeetCode-Pratice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/moddeore/LeetCode-Pratice/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/moddeore/LeetCode-Pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Manacher
 |  |
 | ------- |
@@ -307,12 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/moddeore/LeetCode-Pratice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/moddeore/LeetCode-Pratice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/moddeore/LeetCode-Pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/moddeore/LeetCode-Pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
