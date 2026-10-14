@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/moddeore/LeetCode-Pratice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/moddeore/LeetCode-Pratice/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/moddeore/LeetCode-Pratice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/moddeore/LeetCode-Pratice/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
