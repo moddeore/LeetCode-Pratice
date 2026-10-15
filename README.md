@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/moddeore/LeetCode-Pratice/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/moddeore/LeetCode-Pratice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/moddeore/LeetCode-Pratice/tree/master/0035-search-insert-position) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/moddeore/LeetCode-Pratice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/moddeore/LeetCode-Pratice/tree/master/1288-remove-covered-intervals) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/moddeore/LeetCode-Pratice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/moddeore/LeetCode-Pratice/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/moddeore/LeetCode-Pratice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/moddeore/LeetCode-Pratice/tree/master/0061-rotate-list) |
