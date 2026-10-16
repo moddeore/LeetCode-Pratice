@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/moddeore/LeetCode-Pratice/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1871-jump-game-vii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/moddeore/LeetCode-Pratice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/moddeore/LeetCode-Pratice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moddeore/LeetCode-Pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moddeore/LeetCode-Pratice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/moddeore/LeetCode-Pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/moddeore/LeetCode-Pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1406-stone-game-iii) |
+| [1871-jump-game-vii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moddeore/LeetCode-Pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/moddeore/LeetCode-Pratice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/moddeore/LeetCode-Pratice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/moddeore/LeetCode-Pratice/tree/master/1732-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/moddeore/LeetCode-Pratice/tree/master/2574-left-and-right-sum-differences) |
