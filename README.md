@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/moddeore/LeetCode-Pratice/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/moddeore/LeetCode-Pratice/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/moddeore/LeetCode-Pratice/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/moddeore/LeetCode-Pratice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/moddeore/LeetCode-Pratice/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/moddeore/LeetCode-Pratice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1331-rank-transform-of-an-array) |
@@ -497,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/moddeore/LeetCode-Pratice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
