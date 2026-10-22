@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/moddeore/LeetCode-Pratice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/moddeore/LeetCode-Pratice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/moddeore/LeetCode-Pratice/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/moddeore/LeetCode-Pratice/tree/master/0836-rectangle-overlap) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/moddeore/LeetCode-Pratice/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/moddeore/LeetCode-Pratice/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0301-remove-invalid-parentheses) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
