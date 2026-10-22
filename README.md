@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/moddeore/LeetCode-Pratice/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/moddeore/LeetCode-Pratice/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/moddeore/LeetCode-Pratice/tree/master/0115-distinct-subsequences) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/moddeore/LeetCode-Pratice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/moddeore/LeetCode-Pratice/tree/master/0061-rotate-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/moddeore/LeetCode-Pratice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/moddeore/LeetCode-Pratice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -476,4 +478,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/moddeore/LeetCode-Pratice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moddeore/LeetCode-Pratice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
