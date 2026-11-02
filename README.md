@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/moddeore/LeetCode-Pratice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/moddeore/LeetCode-Pratice/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/moddeore/LeetCode-Pratice/tree/master/0066-plus-one) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/moddeore/LeetCode-Pratice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/moddeore/LeetCode-Pratice/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/moddeore/LeetCode-Pratice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/1140-stone-game-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/moddeore/LeetCode-Pratice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/moddeore/LeetCode-Pratice/tree/master/0056-merge-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/moddeore/LeetCode-Pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/moddeore/LeetCode-Pratice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/moddeore/LeetCode-Pratice/tree/master/1331-rank-transform-of-an-array) |
