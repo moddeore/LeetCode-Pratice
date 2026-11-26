@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/moddeore/LeetCode-Pratice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/moddeore/LeetCode-Pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/moddeore/LeetCode-Pratice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/moddeore/LeetCode-Pratice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/moddeore/LeetCode-Pratice/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/moddeore/LeetCode-Pratice/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/moddeore/LeetCode-Pratice/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/moddeore/LeetCode-Pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/moddeore/LeetCode-Pratice/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/moddeore/LeetCode-Pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
